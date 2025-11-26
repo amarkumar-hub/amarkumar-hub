@@ -1,16 +1,27 @@
-## Hi there 👋
+# 🚀 Aman Kumar — amarkumar-hub
 
-<!--
-**amarkumar-hub/amarKumar-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi! I'm **Aman Kumar**, a passionate learner who loves building clean, simple and powerful projects.  
+This repository is part of my journey to improve my coding skills and create useful projects that others can learn from.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 Highlights
+
+- 🔥 Clean & beginner-friendly code  
+- ⚡ Fast, simple and well-structured project  
+- 🎯 Made for learning and improving skills  
+- 📱 Mobile-friendly & modern look  
+- 🛠️ Easy to understand, modify and upgrade  
+
+---
+
+## 🧰 Tech Used
+
+- **HTML, CSS, JavaScript**
+- **Git & GitHub**
+- **VS Code**
+- Extra tools and libraries added as needed
+
+---
+
+## 📂 Project Structure
