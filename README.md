@@ -1,4 +1,4 @@
-# 🚀 Aman Kumar — amarkumar-hub
+# 🚀 Amar Kumar — amarkumar-hub
 
 Hi! I'm **Aman Kumar**, a passionate learner who loves building clean, simple and powerful projects.  
 This repository is part of my journey to improve my coding skills and create useful projects that others can learn from.
