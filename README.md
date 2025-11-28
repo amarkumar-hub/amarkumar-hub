@@ -6,7 +6,7 @@
 
 <!-- Profile Image -->
 <p align="center">
-  <img src="https://amar.jpeg/file-PJkPvp7tfAZGkBbX4fMebm"
+  <img src="https://images/amar.jpeg//file-PJkPvp7tfAZGkBbX4fMebm"
        width="180"
        style="border-radius: 50%; border: 4px solid #7928ca; box-shadow: 0 0 18px #7928ca;" />
 </p>
