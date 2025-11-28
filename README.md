@@ -20,7 +20,7 @@
 
 <p align="center">
   <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/amarkumar-hub" target="_blank">
+  <a href="https://www.linkedin.com/in/amar-kumar-a698a332a" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
@@ -39,3 +39,5 @@
 + Love creating modern UI/UX & Dark Mode Interfaces
 + Always learning & exploring new technologies
 + Clean, minimal & professional coding style
+Student & Frontend Developer focusing on modern UI/UX, animations, and dark-themed web apps.
+Always exploring new tools and improving my development skills.
