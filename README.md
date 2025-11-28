@@ -1,43 +1,57 @@
-<!-- ===================== PREMIUM DARK THEME README ===================== -->
+import React from "react";
+import { Linkedin, Instagram } from "lucide-react";
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7928ca,000000&height=260&section=header&text=Amar%20Kumar&fontSize=54&fontColor=E0E0E0&fontWeight=bold" />
-</p>
+export default function App() {
+  return (
+    <div className="min-h-screen bg-gray-50 flex items-center justify-center p-6">
+      <div className="bg-white shadow-xl rounded-3xl p-8 max-w-lg w-full text-center">
 
-<!-- Profile Image -->
-<p align="center">
-  <img src="https://images/amar.jpeg//file-PJkPvp7tfAZGkBbX4fMebm"
-       width="180"
-       style="border-radius: 50%; border: 4px solid #7928ca; box-shadow: 0 0 18px #7928ca;" />
-</p>
+        {/* Profile Image */}
+        <img
+          src="https://github.com/amarkumar-hub/amarkumar-hub/blob/main/IMG_0426.jpeg?raw=true"
+          alt="Amar Kumar"
+          className="w-40 h-40 rounded-full mx-auto object-cover shadow-md"
+        />
 
-<h2 align="center" style="color:#a28fff; font-weight:700; text-shadow: 0 0 8px #7928ca;">
-  🚀 Frontend Developer | UI/UX Enthusiast | Dark Mode 
-</h2>
+        {/* Name */}
+        <h1 className="text-3xl font-bold mt-4">Amar Kumar</h1>
+        <p className="text-gray-600 mt-2">
+          Web Developer • Frontend Designer • React Learner
+        </p>
 
-<!-- Badges -->
-<p align="center">
-  <a href="https://github.com/amarkumar-hub" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-amarkumar--hub-7928ca?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
+        {/* Connect With Me */}
+        <h2 className="text-xl font-semibold mt-6">Connect With Me</h2>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=9f7aea&size=28&center=true&width=700&lines=Hi+I'm+Amar+Kumar;Frontend+Developer;UI%2FUX+Designer;Dark+Mode+Enthusiast;I+Build+Modern+Web+Experiences" />
-</p>
+        <div className="flex justify-center gap-6 mt-4">
+          {/* LinkedIn */}
+          <a
+            href="https://www.linkedin.com/in/amarkumar-hub"
+            target="_blank"
+            className="hover:scale-110 transition"
+          >
+            <Linkedin size={34} />
+          </a>
 
----
+          {/* Instagram */}
+          <a
+            href="https://www.instagram.com/amarsingh_24"
+            target="_blank"
+            className="hover:scale-110 transition"
+          >
+            <Instagram size={34} />
+          </a>
+        </div>
 
-## 🔥 About Me
+        {/* About */}
+        <p className="text-gray-700 mt-6 leading-relaxed">
+          I build simple, fast, and responsive websites using HTML, CSS, 
+          JavaScript, and React. Passionate about UI/UX and modern web 
+          designs. Always learning & improving.
+        </p>
 
-```diff
-+ Passionate about creating sleek, modern & responsive web experiences  
-+ UI/UX focused — I believe design should feel as good as it looks  
-+ Obsessed with Dark Mode aesthetics  
-+ Always learning, improving & exploring new tech  
-+ Writing clean, scalable & maintainable code is my priority  
+        {/* Footer */}
+        <p className="text-gray-400 text-sm mt-6">© 2025 Amar Kumar</p>
+      </div>
+    </div>
+  );
+}
