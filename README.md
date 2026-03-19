@@ -1,4 +1,13 @@
-<!-- ====================== PREMIUM README COVER ====================== -->
+# 👋 Hi, I'm Amar Singh
+
+## 🚀 About Me
+- 👨‍💻 Name: Amar Singh
+- 🌐 Username: amarsingh-dev
+- 📍 Location: Delhi, India
+- 🎓 Student | Aspiring Software Developer
+- 💻 Currently learning Java & Programming
+
+---<!-- ====================== PREMIUM README COVER ====================== -->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=7928ca&height=260&section=header&text=Amar%20Kumar&fontSize=54&fontColor=E0E0E0&fontWeight=bold" />
@@ -15,6 +24,22 @@
 </h2>
 
 ---
+
+
+## 🛠️ Skills
+- Java ☕
+- Basic Programming
+- Problem Solving
+
+---
+
+## 📂 Projects
+- 🔹 Java Programs (FizzBuzz, Reverse String, Even-Odd)
+- 🔹 College Assignments
+- 🔹 Practice Codes
+
+---
+
 
 ## 🔗 Connect With Me
 
@@ -39,5 +64,13 @@
 + Love creating modern UI/UX & Dark Mode Interfaces
 + Always learning & exploring new technologies
 + Clean, minimal & professional coding style
-Student & Frontend Developer focusing on modern UI/UX, animations, and dark-themed web apps.
-Always exploring new tools and improving my development skills.
++Student & Frontend Developer focusing on modern UI/UX, animations, and dark-themed web apps.
++Always exploring new tools and improving my development skills.
++Google Search Identity
++Amar Singh Developer  
++Amar Singh Delhi  
++amarsingh-dev GitHub  
+
+---
+
+⭐ Thanks for visiting my profile!
