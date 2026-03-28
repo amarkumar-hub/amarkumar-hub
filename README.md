@@ -1,4 +1,20 @@
-# 👋 Hi, I'm Amar
+<!-- HEADER -->
+<!-- <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header"/> -->
+
+<h1 align="center">Hi 👋, I'm Amar 😎 </h1>
+
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FF5733&center=true&vCenter=true&width=500&lines=MERN+Stack+Developer;Problem+Solver;AI+Enthusiast;Software+Developer" alt="Typing SVG">
+</h3>
+
+---
+
+## 🎯 About Me <img align="right" src="https://komarev.com/ghpvc/?username=AmanC77&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
+
+I’m **Aman Kumar**, a **Software Developer** passionate about building scalable web applications and exploring the power of **AI and Machine Learning**.
+
+💻 **Tech Stack:** React, JavaScript, Node.js, Express, MongoDB, REST APIs  
+🤖 **
 
 ## 🚀 About Me
 - 👨‍💻 Name: Amar kumar
