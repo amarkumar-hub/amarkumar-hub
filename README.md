@@ -43,7 +43,7 @@ I’m **Amar Kumar**, a **Software Developer** passionate about building scalabl
 
 <h1 KNOWING ABOUT
   </h1
-  <p1 align="center">
+  <p align="center">
     
     <img src="https://img.shields.io/static/v1?label=|&message=HTML5&color=23555f&style=plastic&logo=html5"/>
 
@@ -65,7 +65,7 @@ I’m **Amar Kumar**, a **Software Developer** passionate about building scalabl
 
     <img src="https://img.shields.io/static/v1?label=|&message=FIREBASE&color=cbb148&style=plastic&logo=firebase"/>
 
-</p1>
+</p>
 
 ---
 
