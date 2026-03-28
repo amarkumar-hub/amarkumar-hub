@@ -40,6 +40,9 @@ I’m **Amar Kumar**, a **Software Developer** passionate about building scalabl
 </h2>
 
 ---
+<<h1 align="center">
+KNOWING ABOUT
+</h1>
 <p align="center">
     <img src="https://img.shields.io/static/v1?label=|&message=HTML5&color=23555f&style=plastic&logo=html5" alt="HTML5"/>
     <img src="https://img.shields.io/static/v1?label=|&message=CSS3&color=285f65&style=plastic&logo=css3" alt="CSS3"/>
@@ -49,7 +52,6 @@ I’m **Amar Kumar**, a **Software Developer** passionate about building scalabl
     <img src="https://img.shields.io/static/v1?label=|&message=PYTHON&color=52985b&style=plastic&logo=python" alt="Python"/>
     <img src="https://img.shields.io/static/v1?label=|&message=JAVA&color=cdf998&style=plastic&logo=java" alt="Java"/>
     <img src="https://img.shields.io/static/v1?label=|&message=MONGO-DB&color=cdd148&style=plastic&logo=mongodb" alt="MongoDB"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=EXPRESS&color=bbb111&style=plastic&logo=express" alt="Express"/>
     <img src="https://img.shields.io/static/v1?label=|&message=GIT&color=cbb148&style=plastic&logo=git" alt="Git"/>
     <img src="https://img.shields.io/static/v1?label=|&message=FIREBASE&color=cbb148&style=plastic&logo=firebase" alt="Firebase"/>
 </p>
